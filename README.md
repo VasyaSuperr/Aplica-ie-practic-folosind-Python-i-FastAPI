@@ -10,7 +10,7 @@ Aplicația permite utilizatorilor să se înregistreze, să se autentifice și s
 
 Aplicația este disponibilă online la adresa:
 
-https://your-app.onrender.com
+https://aplica-ie-practic-folosind-python-i.onrender.com
 
 ---
 
@@ -98,6 +98,8 @@ uvicorn main:app --reload
 5. Acces aplicație:
 
 http://127.0.0.1:8000
+
+VasyaSuperr/Aplica-ie-practic-folosind-Python-i-FastAPI
 
 ---
 
